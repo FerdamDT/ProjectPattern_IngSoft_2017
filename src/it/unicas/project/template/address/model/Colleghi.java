@@ -183,7 +183,7 @@ public class Colleghi {
         // Changes to the underlying list will NOT be reported
         // Nothing will be printed as a result of the next line.
         list.add("item two");
-
+//o fanno cric o fanno croc
         System.out.println("Size: "+observableList.size());
 
     }
